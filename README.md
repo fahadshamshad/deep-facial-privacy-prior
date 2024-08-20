@@ -23,5 +23,5 @@
 **Deep Facial Privacy Prior** generates face images that look natural and real. **But here's the special part**: it also ensures a high level of privacy protection. This means you can keep sharing images without worrying about unwanted tracking. 
 
 <p align="center">
-  <img src="pipeline_color.jpg" align="center" width="95%">
+  <img src="pipeline.png" align="center" width="85%">
 </p>
