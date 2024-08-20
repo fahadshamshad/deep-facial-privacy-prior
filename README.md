@@ -17,6 +17,8 @@
 > # :rocket: Release
 * **(August 21, 2024)**
   * Paper uploaded on arXiv.
+* **(August 8, 2024)**
+  * Paper accepted in Proceedings of ECCV Workshop on Explainable AI for Biometrics, 2024.
  
 ## Pipeline
 
