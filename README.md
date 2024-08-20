@@ -6,7 +6,7 @@
 
 
 > [**Makeup-Guided Facial Privacy Protection via Untrained Neural Network Priors**](https://github.com/fahadshamshad/deep-facial-privacy-prior)<br>
-> [Fahad Shamshad](https://fahadshamshad.github.io/), [Muzammal Naseer*](https://muzammal-naseer.com/), and [Karthik Nandakumar](https://scholar.google.com.pk/citations?user=2qx0RnEAAAAJ&hl=en)
+> [Fahad Shamshad](https://fahadshamshad.github.io/), [Muzammal Naseer](https://muzammal-naseer.com/), and [Karthik Nandakumar](https://scholar.google.com.pk/citations?user=2qx0RnEAAAAJ&hl=en)
 >
 > **Mohamed bin Zayed University of AI**
 >
