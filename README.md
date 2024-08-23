@@ -5,7 +5,7 @@
 </p>
 
 
-> [**Makeup-Guided Facial Privacy Protection via Untrained Neural Network Priors**](https://github.com/fahadshamshad/deep-facial-privacy-prior)<br>
+> [**Makeup-Guided Facial Privacy Protection via Untrained Neural Network Priors**](https://arxiv.org/abs/2408.12387)<br>
 > [Fahad Shamshad](https://fahadshamshad.github.io/), [Muzammal Naseer](https://muzammal-naseer.com/), and [Karthik Nandakumar](https://scholar.google.com.pk/citations?user=2qx0RnEAAAAJ&hl=en)
 >
 > **Mohamed bin Zayed University of AI**
@@ -27,3 +27,15 @@
 <p align="center">
   <img src="pipeline.png" align="center" width="85%">
 </p>
+
+If you find our work and this repository useful, please consider giving our repo a star and citing our paper as follows:
+```bibtex
+@article{Shamshad2024makeup,
+    title={Makeup-Guided Facial Privacy Protection via Untrained Neural Network Priors},
+    author={Shamshad, Fahad and Muzzamal, Naseer and Nandakumar, Karthik},
+    journal={arXiv:2408.12387},
+    year={2024}
+}
+```
+## Contact
+If you have any questions, please create an issue on this repository or contact at fahad.shamshad@mbzuai.ac.ae.
