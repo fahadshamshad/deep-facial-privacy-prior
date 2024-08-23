@@ -10,7 +10,7 @@
 >
 > **Mohamed bin Zayed University of AI**
 >
-> [![paper](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)]()
+> [![paper](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/2408.12387)
 >
 > ---
 >
