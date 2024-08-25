@@ -30,11 +30,11 @@
 
 If you find our work and this repository useful, please consider giving our repo a star and citing our paper as follows:
 ```bibtex
-@article{Shamshad2024makeup,
-    title={Makeup-Guided Facial Privacy Protection via Untrained Neural Network Priors},
-    author={Shamshad, Fahad and Muzzamal, Naseer and Nandakumar, Karthik},
-    journal={arXiv:2408.12387},
-    year={2024}
+@article{shamshad2024makeup,
+  title={Makeup-Guided Facial Privacy Protection via Untrained Neural Network Priors},
+  author={Shamshad, Fahad and Naseer, Muzammal and Nandakumar, Karthik},
+  journal={arXiv preprint arXiv:2408.12387},
+  year={2024}
 }
 ```
 ## Contact
