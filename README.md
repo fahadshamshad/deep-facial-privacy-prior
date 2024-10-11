@@ -1,4 +1,4 @@
-# Makeup-Guided Facial Privacy Protection via Untrained Neural Network Priors [ECCVW 2024]
+# Makeup-Guided Facial Privacy Protection via Untrained Neural Network Priors [Proceedings of ECCVW on Explainable AI for Biometrics 2024 -- [Oral]]
 
 <p align="center">
     <img src="https://i.imgur.com/waxVImv.png" alt="Image">
